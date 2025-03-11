@@ -1,1 +1,1 @@
-a = input("Geben Sie eine Zahl ein: ")
+a = input("Geben Sie eine Nummer ein: ")
